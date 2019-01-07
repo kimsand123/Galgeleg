@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7f201dc50646627fb6c4775f06e6923b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ab8a26e667bf36857b9521c3e6be4be9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\512187e20d2f2a9c4a22355c5197503b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\267e57177906803f7bc1b7c9149d6829\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2a59402781ff3e111139fa3504e07430\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f798ed923c84af83c804b4e3353aa90c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\f62e8791686df735d1b59aa7bed85e21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8131c6e9606b262a6719022d7a3f53a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ce5e17d348fd5a4e652ad2a90a346e77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e3696bff2afe4c4e1e020bb238743406\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\911a6802bc173b8d4fca13d0f8c32016\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c8c7e73929cee44bc8b58b6a6455e9d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3c17610bed01f9853d6605e7ebe9c737\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b5eb5607e4f8aac81a9df47990233555\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3d93121eed6022920c981d2c073b9ff2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\587dda295ad9ed43ced533c8de4b5661\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2faf4903f9e156573f2597c9b2ec5935\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
+		INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\512187e20d2f2a9c4a22355c5197503b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\512187e20d2f2a9c4a22355c5197503b\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:13:9-40
+activity#kim.s163290.dtu.dk.galgespil.MainActivity
+ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:18:27-74
+activity#kim.s163290.dtu.dk.galgespil.Game
+ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:21:9-42
+	android:name
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:21:19-39
+activity#kim.s163290.dtu.dk.galgespil.EndHighscore
+ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:22:19-47
+activity#kim.s163290.dtu.dk.galgespil.WonActivity
+ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:23:9-49
+	android:name
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:23:19-46
+activity#kim.s163290.dtu.dk.galgespil.LostActivity
+ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:24:9-59
+	android:name
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml:24:19-47
+uses-sdk
+INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
+INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7f201dc50646627fb6c4775f06e6923b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7f201dc50646627fb6c4775f06e6923b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ab8a26e667bf36857b9521c3e6be4be9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ab8a26e667bf36857b9521c3e6be4be9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\512187e20d2f2a9c4a22355c5197503b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\512187e20d2f2a9c4a22355c5197503b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\267e57177906803f7bc1b7c9149d6829\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\267e57177906803f7bc1b7c9149d6829\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2a59402781ff3e111139fa3504e07430\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2a59402781ff3e111139fa3504e07430\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f798ed923c84af83c804b4e3353aa90c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f798ed923c84af83c804b4e3353aa90c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\f62e8791686df735d1b59aa7bed85e21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\f62e8791686df735d1b59aa7bed85e21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8131c6e9606b262a6719022d7a3f53a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8131c6e9606b262a6719022d7a3f53a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ce5e17d348fd5a4e652ad2a90a346e77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ce5e17d348fd5a4e652ad2a90a346e77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e3696bff2afe4c4e1e020bb238743406\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e3696bff2afe4c4e1e020bb238743406\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\911a6802bc173b8d4fca13d0f8c32016\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\911a6802bc173b8d4fca13d0f8c32016\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c8c7e73929cee44bc8b58b6a6455e9d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c8c7e73929cee44bc8b58b6a6455e9d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3c17610bed01f9853d6605e7ebe9c737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3c17610bed01f9853d6605e7ebe9c737\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b5eb5607e4f8aac81a9df47990233555\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b5eb5607e4f8aac81a9df47990233555\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3d93121eed6022920c981d2c073b9ff2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3d93121eed6022920c981d2c073b9ff2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\587dda295ad9ed43ced533c8de4b5661\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\587dda295ad9ed43ced533c8de4b5661\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2faf4903f9e156573f2597c9b2ec5935\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kimsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2faf4903f9e156573f2597c9b2ec5935\AndroidManifest.xml:20:5-44
+INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
+INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
+		INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
+		ADDED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
+		INJECTED from C:\DTU\SoftwareWorkSpace\Android\s163290Galgespil\app\src\main\AndroidManifest.xml
