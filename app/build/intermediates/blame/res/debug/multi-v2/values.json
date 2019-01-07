@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\DTU\\SoftwareWorkSpace\\Android\\s163290Galgespil\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\DTU\\SoftwareWorkSpace\\Android\\Galge\\Galgeleg\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\kimsa\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\7f201dc50646627fb6c4775f06e6923b\\res\\values\\values.xml",
@@ -95,6 +95,23 @@
                     }
                 },
                 {
+                    "source": "C:\\DTU\\SoftwareWorkSpace\\Android\\Galge\\Galgeleg\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "154,155,156",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "7827,7873,7920",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "7868,7915,7966"
+                    }
+                },
+                {
                     "source": "C:\\Users\\kimsa\\.gradle\\caches\\transforms-1\\files-1.1\\transition-27.1.1.aar\\911a6802bc173b8d4fca13d0f8c32016\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -112,7 +129,7 @@
                     }
                 },
                 {
-                    "source": "C:\\DTU\\SoftwareWorkSpace\\Android\\s163290Galgespil\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\DTU\\SoftwareWorkSpace\\Android\\Galge\\Galgeleg\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -131,24 +148,7 @@
                     }
                 },
                 {
-                    "source": "C:\\DTU\\SoftwareWorkSpace\\Android\\s163290Galgespil\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "198,99,151"
-                    },
-                    "to": {
-                        "startLines": "154,155,156",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "7827,7873,7920",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "7868,7915,7966"
-                    }
-                },
-                {
-                    "source": "C:\\DTU\\SoftwareWorkSpace\\Android\\s163290Galgespil\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\DTU\\SoftwareWorkSpace\\Android\\Galge\\Galgeleg\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",

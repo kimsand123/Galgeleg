@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Mon Jan 07 23:11:37 CET 2019
-1.base=C\:\\DTU\\SoftwareWorkSpace\\Android\\s163290Galgespil\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Tue Jan 08 00:04:54 CET 2019
+1.base=C\:\\DTU\\SoftwareWorkSpace\\Android\\Galge\\Galgeleg\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
 1.set=DEX
 0.path=classes.dex
 0.set=DEX
-0.base=C\:\\DTU\\SoftwareWorkSpace\\Android\\s163290Galgespil\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+0.base=C\:\\DTU\\SoftwareWorkSpace\\Android\\Galge\\Galgeleg\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 1.path=classes.dex

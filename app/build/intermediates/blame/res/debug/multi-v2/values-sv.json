@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\DTU\\SoftwareWorkSpace\\Android\\s163290Galgespil\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv\\values-sv.xml",
+            "outputFile": "C:\\DTU\\SoftwareWorkSpace\\Android\\Galge\\Galgeleg\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv\\values-sv.xml",
             "map": [
                 {
                     "source": "C:\\Users\\kimsa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\ab8a26e667bf36857b9521c3e6be4be9\\res\\values-sv\\values-sv.xml",
